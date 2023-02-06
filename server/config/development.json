@@ -1,0 +1,9 @@
+{
+    "db": {
+      "port": 27017,
+      "user": "oussama",
+      "name": "Location",
+      "host": "localhost"
+    }
+  }
+  
